@@ -5,7 +5,6 @@ Ce projet consiste en la réalisation d'un dispositif d'écoute directionnelle b
 ## Contenu du dépôt
 
 - **Code source** : Implémentation du filtre NLMS pour le débruitage audio.
-- **Fichiers CAO** : Modèles 3D pour l'impression de la structure mécanique (format `.amf`).
 - **Documentation** : Instructions pour la construction du dispositif et la mise en œuvre du code.
 
 ## Liste des composants nécessaires
@@ -26,7 +25,6 @@ Ce projet consiste en la réalisation d'un dispositif d'écoute directionnelle b
 ## Structure du dépôt
 
 - `src/` : Code source en C pour l'ESP32.
-- CAO/` : Fichiers `.amf` pour l'impression 3D de la parabole et du support.
 
 ## Instructions
 
